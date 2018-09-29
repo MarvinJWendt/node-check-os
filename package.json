@@ -13,5 +13,9 @@
     "test": "ava --verbose"
   },
   "author": "MarvinJWendt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/MarvinJWendt/node-check-os"
+  }
 }
