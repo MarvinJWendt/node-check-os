@@ -6,7 +6,7 @@
     const os = require('check-os')
 
 ### In code
-    if(os.isWin) {...} //Check if current os is Windows
+    if(os.isWindows) {...} //Check if current os is Windows
     if(os.isMacOS) {...} //Check if current os is MacOS
     if(os.isLinux) {...} //Check if current os is Linux
     if(os.isSunOs) {...} //Check if current os is SunOS
