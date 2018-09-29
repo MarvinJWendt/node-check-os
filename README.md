@@ -11,3 +11,4 @@
     if(os.isLinux) {...} //Check if current os is Linux
     if(os.isSunOs) {...} //Check if current os is SunOS
     if(os.FreeBSD) {...} //Check if current os is FreeBSD
+    
