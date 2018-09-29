@@ -1,0 +1,17 @@
+{
+  "name": "check-os",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.11.3",
+    "ava": "1.0.0-beta.8"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "ava --verbose"
+  },
+  "author": "MarvinJWendt",
+  "license": "MIT"
+}
