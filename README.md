@@ -1,11 +1,11 @@
 # check-os
 > Check if the current operating system is what you need
 
-##Usage
-###Install
+## Usage
+### Install
     const os = require('check-os')
 
-###In code
+### In code
     if(os.isWin) {...} //Check if current os is Windows
     if(os.isMacOS) {...} //Check if current os is MacOS
     if(os.isLinux) {...} //Check if current os is Linux
