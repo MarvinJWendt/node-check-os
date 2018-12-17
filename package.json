@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^10.11.3",
-    "ava": "1.0.0-rc.2"
+    "ava": "1.0.1"
   },
   "scripts": {
     "start": "node src/app.js",
